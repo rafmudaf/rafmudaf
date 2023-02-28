@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="gch.gif" width=50%>
+
 I'm Rafael. I'm a researcher at the National Renewable Energy Laboratory ([NREL](https://www.nrel.gov))
 working primarily on wind energy modeling software. In addition to wind turbine and wind farm
 dynamics, I'm interested in improving the software development process especially as it relates
@@ -8,10 +10,8 @@ to research software, and I'm pursuing this throughout 2023 as a
 develop processes and training material on visually communicating elements of software design as
 part of the software development process.
 
-Feel free to [reach out](https://www.linkedin.com/in/rafmudaf/) to talk about wind energy and
+Please [get in touch](https://www.linkedin.com/in/rafmudaf/) to talk about wind energy and
 research software!
-
-![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rafmudaf&theme=tokyonight)
 
 ![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frafmudaf1212%2Fhit-counter)
 
