@@ -10,8 +10,8 @@ to research software, and I'm pursuing this throughout 2023 as a
 develop processes and training material on visually communicating elements of software design as
 part of the software development process.
 
-Please [get in touch](https://www.linkedin.com/in/rafmudaf/) to talk about wind energy and
-research software!
+Please get in touch ([LinkedIn](https://www.linkedin.com/in/rafmudaf/)) to talk about wind energy
+and research software!
 
 ![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frafmudaf1212%2Fhit-counter)
 
