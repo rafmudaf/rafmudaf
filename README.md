@@ -13,7 +13,12 @@ part of the software development process.
 Please get in touch ([LinkedIn](https://www.linkedin.com/in/rafmudaf/)) to talk about wind energy
 and research software!
 
-![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frafmudaf1212%2Fhit-counter)
+Active projects:
+- [WETO Software Stack](https://nrel.github.io/WETOStack/index.html) characterization and coordination
+- [wcomp](https://rafmudaf.github.io/wcomp/) steady-state wind farm wake modeling software comparison
+- [Communicating Design](https://rafmudaf.github.io/communicating-design/intro.html)
+- [FLORIS](https://github.com/nrel/floris) 4ever
+- [Heat flow and humidity in my house](https://rafmudaf.github.io/my_house_data/)
 
 
 <!--
