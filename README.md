@@ -5,8 +5,8 @@
 I'm Rafael. I'm a researcher at the National Renewable Energy Laboratory ([NREL](https://www.nrel.gov))
 working primarily on wind energy modeling software. In addition to wind turbine and wind farm
 dynamics, I'm interested in improving the software development process especially as it relates
-to research software, and I'm pursuing this throughout 2023 as a
-[Better Scienfitic Software Foundation Fellow](https://bssw.io/pages/meet-our-fellows) where I'll
+to research software, and I pursued this throughout 2023/2024 as a
+[Better Scienfitic Software Foundation Fellow](https://bssw.io/pages/meet-our-fellows) where I
 develop processes and training material on visually communicating elements of software design as
 part of the software development process.
 
@@ -20,18 +20,7 @@ Active projects:
 - [FLORIS](https://github.com/nrel/floris) 4ever
 - [Heat flow and humidity in my house](https://rafmudaf.github.io/my_house_data/)
 
-
-<!--
-**rafmudaf/rafmudaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Talks and other things:
+- TORQUE 2024: [wcomp poster and paper](https://rafmudaf.github.io/wcomp/index.html#publications)
+- IDEAS HPC Best Practices webinar: [Visually communicating elements of software design](https://www.youtube.com/watch?v=VZXg7wcrhao)
+- SustainOSS Podcast: [Advancing Wind Energy using OSS](https://ossforclimate.sustainoss.org/4)
